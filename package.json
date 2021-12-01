@@ -52,7 +52,7 @@
     "@nestjs/platform-express": "^8.1.1",
     "@nestjs/platform-fastify": "^8.1.1",
     "@nestjs/testing": "^8.1.1",
-    "@opentelemetry/exporter-prometheus": "^0.26.0",
+    "@opentelemetry/exporter-prometheus": "^0.27.0",
     "@opentelemetry/sdk-node": "^0.26.0",
     "@types/jest": "^27.0.2",
     "@types/node": "^16.11.0",
