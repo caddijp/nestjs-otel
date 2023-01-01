@@ -63,7 +63,7 @@
     "eslint-plugin-import": "^2.25.3",
     "husky": "^7.0.4",
     "jest": "^27.4.5",
-    "lint-staged": "^12.1.4",
+    "lint-staged": "^13.1.0",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
     "rxjs": "^7.5.1",
